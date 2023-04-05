@@ -4,6 +4,9 @@
 
 The purpose of this project is to provide a study guide of the material I learned in the Prework section of the U of U Coding Bootcamp for future reference. I also made it to practice using HTML, CSS, Git, and Java Script for the first time. This project taught me the basics of HTML, CSS, Git, Java Script, and making a website.
 
+## Screenshot  
+![image](https://user-images.githubusercontent.com/122832005/229991074-bd72def2-b496-42c9-9909-84d89dc47252.png)
+
 
 ## Table of Contents
 
@@ -13,8 +16,7 @@ The purpose of this project is to provide a study guide of the material I learne
 - [License](#license)
 
 ## Installation
-
-N/A
+Link to deployed webpage: https://myersjos976.github.io/prework-study-guide/
 
 ## Usage
 
